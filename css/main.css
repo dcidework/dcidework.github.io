@@ -8955,7 +8955,7 @@ html,
 .container-fluid {
     background-color: #000;
     color: #fff;
-    font-faimy: "Helvetica Monospaced W01", "Helvetica", times, Monaco, monospace;
+    font-family: "Helvetica Monospaced W01", "Helvetica", times, Monaco, monospace;
     height: 100%;
     overflow: hidden;
     font-family: "Neue Helvetica W01", "Lucida Console", Monaco, monospace
